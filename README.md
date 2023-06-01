@@ -1,20 +1,17 @@
-# Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
-![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
+## Introduction:
 
-## Introduction
-The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! 
- 
-In this course, you'll learn the following:
-- ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
-- React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
-- TailwindCSS - a popular utility-first CSS styling framework
-- Framer Motion - the most popular library used to bring your React website to life with animations
-You'll also learn how to:
-- Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
-- Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
-- Implement sending emails through a form on the website
-- Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
+Hello, I am Dwaraha Thushaanth, a recent graduate from Seneca College with a diploma in Computer Programming. I am excited to introduce myself as a highly motivated individual with a passion for technology and a strong foundation in programming principles. With a GPA of 3.7 and an Honours standing, I have demonstrated a commitment to academic excellence throughout my studies.
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+## Background:
+
+While my academic background is rooted in computer programming, I am also a registered Pharmacy Technician. After working in the pharmaceutical industry for several years, I have decided to make a career transition to the field of Information Technology (IT). This decision stems from my deep fascination with technology, problem-solving, and the opportunity to contribute to innovative solutions in the IT industry.
+
+## Skills and Expertise:
+
+As a computer programming graduate, I have acquired a diverse range of technical skills and knowledge. My education at Seneca College equipped me with a solid understanding of programming languages such as Javascript, C++, and Python, as well as experience with software development methodologies and frameworks. I have also gained proficiency in database management, web development, and object-oriented programming, which have provided me with a strong foundation to excel in the IT field.
+
+Additionally, my experience as a registered Pharmacy Technician has honed my communication skills, attention to detail, and ability to work efficiently in a fast-paced environment. These transferable skills, combined with my technical expertise, allow me to approach IT projects with a unique perspective and contribute effectively to collaborative teams.
+
+## Passion for Learning and Growth:
+
+I am a dedicated lifelong learner who recognizes the ever-evolving nature of the IT industry. I am committed to staying updated with the latest technologies, frameworks, and programming languages to ensure that I can provide innovative and efficient solutions. My passion for learning, coupled with my adaptability and problem-solving mindset, enables me to embrace challenges and continuously expand my skill set.
